@@ -1,0 +1,11 @@
+productName,barcode,boxQuantity,sheetInBox,sheetPrice,tabletInSheet,tabletPrice,costPrice,retailPrice,expiryDate,description,scientificName
+Aspirin,123456789012,10,20,4.99,10,0.50,3.00,5.99,2025-12-31,Pain reliever,Acetylsalicylic Acid
+Ibuprofen,123456789013,15,30,7.99,15,0.60,4.50,9.99,2026-01-15,Anti-inflammatory,Ibuprofen
+Paracetamol,123456789014,20,40,3.49,20,0.25,1.50,4.49,2026-02-20,Fevers and pain,Paracetamol
+Amoxicillin,123456789015,5,10,12.99,10,1.30,8.00,14.99,2025-08-10,Antibiotic,Amoxicillin
+Cetirizine,123456789016,8,15,5.49,15,0.37,2.50,6.99,2025-07-01,Allergy relief,Cetirizine
+Omeprazole,123456789017,12,25,9.99,25,0.40,5.00,11.99,2026-03-30,Stomach acid reducer,Omeprazole
+Lisinopril,123456789018,10,20,8.99,20,0.45,4.00,10.99,2026-04-15,Blood pressure medication,Lisinopril
+Metformin,123456789019,7,14,6.99,14,0.50,3.50,8.99,2025-09-30,Diabetes medication,Metformin
+Simvastatin,123456789020,9,18,10.99,18,0.61,6.00,12.99,2025-11-25,Cholesterol medication,Simvastatin
+Levothyroxine,123456789021,14,28,15.99,28,0.57,10.00,17.99,2026-05-10,Thyroid hormone,Levothyroxine

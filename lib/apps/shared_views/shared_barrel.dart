@@ -1,0 +1,10 @@
+export 'auth_views/login_view.dart';
+export 'auth_views/forgot_password_view.dart';
+export 'product_view/widgets/product_table_row.dart';
+export 'product_view/product_view.dart';
+export 'product_view/add_product/add_product_view.dart';
+export 'product_view/widgets/product_tile_widget.dart';
+export 'staff_view/staff_view.dart';
+export 'staff_view/staff_desktop_view.dart';
+export 'staff_view/staff_tab_view.dart';
+export 'staff_view/staff_mobile_view.dart';

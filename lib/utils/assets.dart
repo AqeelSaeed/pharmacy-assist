@@ -1,0 +1,69 @@
+abstract class Assets {
+  ///=============== Images ======================
+  static const medicineImage = 'assets/images/medicine.png';
+  static const assist1 = 'assets/images/assist1.png';
+  static const assist2 = 'assets/images/assist2.png';
+  static const imageUpload = 'assets/images/image_upload.png';
+  static const passwordCheck = 'assets/images/password_check.png';
+  static const pharmacyBoard = 'assets/images/pharmacy_board.png';
+  static const phoneAuth = 'assets/images/phone_auth.png';
+  static const dummyUser = 'assets/images/dumy_pic.png';
+  static const dummyParmacy = 'assets/images/dumy_pharmacy.png';
+  static const dummyParmacy1 = 'assets/images/pharmacy1.png';
+  static const trashImage = 'assets/images/big_trash.png';
+  static const bottelImage = 'assets/images/bottel.png';
+
+  ///=============== Icons =========================
+  static const emailIcon = 'assets/icons/mail_icon.png';
+  static const keyIcon = 'assets/icons/key_icon.png';
+  static const cameraIcon = 'assets/icons/camera.png';
+  static const locationIcon = 'assets/icons/location.png';
+  static const pillsIcon = 'assets/icons/pills.png';
+  static const mailIcon = 'assets/icons/mail_icon.png';
+  static const dashoardIcon = 'assets/icons/dashboard.png';
+  static const drugDepoIcon = 'assets/icons/drug_depot.png';
+  static const expiriesIcon = 'assets/icons/expiries.png';
+  static const financeIcon = 'assets/icons/finance.png';
+  static const logoutIcon = 'assets/icons/logout.png';
+  static const posIcon = 'assets/icons/pos.png';
+  static const productsIcon = 'assets/icons/products.png';
+  static const returnsIcon = 'assets/icons/returns.png';
+  static const salesIcon = 'assets/icons/sales.png';
+  static const settingsIcon = 'assets/icons/settings.png';
+  static const staffIcon = 'assets/icons/staff.png';
+  static const ordersIcon = 'assets/icons/orders.png';
+  static const closeIcon = 'assets/icons/close.png';
+  static const viewIcon = 'assets/icons/view.png';
+  static const editIcon = 'assets/icons/edit.png';
+  static const omprezolIcon = 'assets/icons/omprezol.png';
+  static const panadolIcon = 'assets/icons/panadol.png';
+  static const sugarIcon = 'assets/icons/sugar_cap.png';
+  static const trashIcon = 'assets/icons/trash.png';
+  static const vigraIcon = 'assets/icons/vigra.png';
+  static const bulkImportIcon = 'assets/icons/bulk_import.png';
+  static const bulkExportIcon = 'assets/icons/bulk_export.png';
+  static const addProductsIcon = 'assets/icons/add_products.png';
+  static const searchIcon = 'assets/icons/search.png';
+  static const netSales = 'assets/icons/net_sale.svg';
+  static const netReturns = 'assets/icons/net_returns.svg';
+  static const netRevenue = 'assets/icons/net_revenue.svg';
+  static const netProfit = 'assets/icons/net_Profit.svg';
+
+  static const barCodeIcon = 'assets/icons/barcode.png';
+  static const boxSheetIcon = 'assets/icons/box_sheet.png';
+  static const calendarIcon = 'assets/icons/calendar.png';
+  static const descriptionIcon = 'assets/icons/description.png';
+  static const dollarIcon = 'assets/icons/dollar.png';
+  static const productIcon = 'assets/icons/product.png';
+  static const quantityBox = 'assets/icons/qty_box.png';
+  static const scientifiNameIcon = 'assets/icons/scientific_name.png';
+  static const tableSheetIcon = 'assets/icons/table_sheet.png';
+  static const uploadIcon = 'assets/icons/upload.png';
+  static const translationIcon = 'assets/icons/translation.png';
+  static const backIcon = 'assets/icons/back_arrow.png';
+  static const greenPile = 'assets/icons/green_pil.png';
+  static const cartIcon = 'assets/icons/add_to_cart.png';
+  static const subtractIcon = 'assets/icons/minus.png';
+  static const uploadFileIcon = 'assets/icons/file_upload.png';
+  static const noProductsIcon = 'assets/icons/no_products.png';
+}
